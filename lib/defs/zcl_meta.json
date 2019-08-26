@@ -1598,6 +1598,30 @@
                     {"unknown2":"uint8"}
                 ],
                 "dir":1}
+        },
+        "manuSpecificYunShiDoorlock": {
+            "cmd0x0000": { "params": [], "dir": 0 },
+            "cmd0x0001": { "params": [], "dir": 0 },
+            "cmd0x0002": { "params": [], "dir": 0 },
+            "cmd0x0003": { "params": [], "dir": 0 },
+            "cmd0x0004": { "params": [], "dir": 0 },
+            "cmd0x0005": { "params": [], "dir": 0 },
+            "cmd0x0006": { "params": [], "dir": 0 },
+            "cmd0x0007": { "params": [], "dir": 0 },
+            "cmd0x0008": { "params": [], "dir": 0 },
+            "cmd0x0009": { "params": [], "dir": 0 },
+            "cmd0x0010": { "params": [], "dir": 0 },
+            "cmd0x8000": { "params": [], "dir": 0 },
+            "cmd0x8001": { "params": [], "dir": 0 },
+            "cmd0x8002": { "params": [], "dir": 0 },
+            "cmd0x8003": { "params": [], "dir": 0 },
+            "cmd0x8004": { "params": [], "dir": 0 },
+            "cmd0x8005": { "params": [], "dir": 0 },
+            "cmd0x8006": { "params": [], "dir": 0 },
+            "cmd0x8007": { "params": [], "dir": 0 },
+            "cmd0x8008": { "params": [], "dir": 0 },
+            "cmd0x8009": { "params": [], "dir": 0 },
+            "cmd0x8010": { "params": [], "dir": 0 }
         }
     }
 }
