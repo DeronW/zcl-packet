@@ -1600,28 +1600,7 @@
                 "dir":1}
         },
         "manuSpecificYunShiDoorlock": {
-            "cmd0x0000": { "params": [{"cmd": "dynUint8"}], "dir": 1 },
-            "cmd0x0001": { "params": [{"cmd": "dynUint8"}], "dir": 1 },
-            "cmd0x0002": { "params": [{"cmd": "dynUint8"}], "dir": 1 },
-            "cmd0x0003": { "params": [{"cmd": "dynUint8"}], "dir": 1 },
-            "cmd0x0004": { "params": [{"cmd": "dynUint8"}], "dir": 1 },
-            "cmd0x0005": { "params": [{"cmd": "dynUint8"}], "dir": 1 },
-            "cmd0x0006": { "params": [{"cmd": "dynUint8"}], "dir": 1 },
-            "cmd0x0007": { "params": [{"cmd": "dynUint8"}], "dir": 1 },
-            "cmd0x0008": { "params": [{"cmd": "dynUint8"}], "dir": 1 },
-            "cmd0x0009": { "params": [{"cmd": "dynUint8"}], "dir": 1 },
-            "cmd0x0010": { "params": [{"cmd": "dynUint8"}], "dir": 1 },
-            "cmd0x8000": { "params": [{"cmd": "dynUint8"}], "dir": 0 },
-            "cmd0x8001": { "params": [{"cmd": "dynUint8"}], "dir": 0 },
-            "cmd0x8002": { "params": [{"cmd": "dynUint8"}], "dir": 0 },
-            "cmd0x8003": { "params": [{"cmd": "dynUint8"}], "dir": 0 },
-            "cmd0x8004": { "params": [{"cmd": "dynUint8"}], "dir": 0 },
-            "cmd0x8005": { "params": [{"cmd": "dynUint8"}], "dir": 0 },
-            "cmd0x8006": { "params": [{"cmd": "dynUint8"}], "dir": 0 },
-            "cmd0x8007": { "params": [{"cmd": "dynUint8"}], "dir": 0 },
-            "cmd0x8008": { "params": [{"cmd": "dynUint8"}], "dir": 0 },
-            "cmd0x8009": { "params": [{"cmd": "dynUint8"}], "dir": 0 },
-            "cmd0x8010": { "params": [{"cmd": "dynUint8"}], "dir": 0 }
+            "doorlock0": { "params": [{"cmd": "dynUint8"}], "dir": 1 }
         }
     }
 }
